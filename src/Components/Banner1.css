@@ -1,0 +1,51 @@
+.banner1_main{
+    margin-top:90px;
+}
+.grid_main{
+    height:75vh;
+    width: 100%;
+}
+.grid_1{
+    height:100%;
+    width:100%;
+}
+.grid_2{
+    height:100%;
+    width:100%;
+}
+.grid_5{
+    height:100%;
+    width:100%;
+}
+.grid_3{
+    height:50%;
+    width:100%;
+    /* background-color: rgb(172, 15, 111); */
+}
+.grid_4{
+    height:50%;
+    width:100%;
+    /* background-color: rgb(163, 19, 26); */
+}
+.box_1{
+    height:70%;
+    width:100%;
+}
+.box_2{
+    height:30%;
+    width:100%;
+}
+.box_3{
+    height:50%;
+    width:100%;
+    /* margin-left:5px; */
+}
+.box_4{
+    height:50%;
+    width:100%;
+    /* margin-left:5px ; */
+}
+.banner1_verticle{
+    border:1px solid black;
+    height:70%;
+}

@@ -1,0 +1,17 @@
+.text_box{
+    margin:0px auto 20px auto;
+}
+.img_box2{
+    width:50%;
+    margin-right:5px;
+}
+.img_box3{
+    width:50%;
+    margin-left:5px;
+}
+.img2_main{
+    margin-right:"10px";
+}
+.divbox{
+    display: flex;
+}

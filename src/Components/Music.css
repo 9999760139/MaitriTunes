@@ -1,0 +1,57 @@
+.music{
+    margin-top:30px;
+}
+.card{
+    display: flex;
+    align-items: center;
+}
+.buttonbase{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.buttonbase_phone img{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    /* height:100%; */
+    width:100%;
+}
+.buttonbase img{
+    height:80%;
+    width:80%;
+}
+.play_icon{
+    width: 25;
+    height:25;
+}
+.music_box{
+    /* height:25%; */
+    width:100%;
+    border:1px solid #331a00;
+}
+.icons{
+    padding:15px 5% 10px 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.icon_box{
+    display: flex;
+    align-items: flex-start;
+}
+.time{
+    padding:10px 5% 20px 5%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.vertcle_line{
+    border:1px solid black;
+    height:100px;
+    width:0.1px;
+    display: flex;
+    justify-self: flex-end ;
+}
+.audio{
+    margin:auto auto;
+}

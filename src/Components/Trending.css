@@ -1,0 +1,9 @@
+.trending{
+}
+.arrow_trending{
+    display: flex;
+    justify-content: space-between;
+}
+.trend_heading{
+    margin:5px auto 10px auto;
+}

@@ -1,0 +1,25 @@
+.subscribe_main{
+    margin:30px auto;
+}
+.typography_div{
+    text-align: center;
+    margin:20px auto 30px auto;
+    margin:auto 8%;
+}
+.para{
+    padding:auto auto;
+    margin:20px auto;             
+    color: #333;
+}
+.btn_div{
+    margin:15px 8%;
+}
+.btn_grid{
+    display: flex;
+    justify-content: space-between;
+
+}
+.sucscribe_btn{
+    height:50px;
+    width:100%;
+}

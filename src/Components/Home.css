@@ -1,0 +1,14 @@
+.banner_main{
+    padding:0px 5%;
+    margin-top:90px;
+}
+.home{
+    padding:0px 5%;
+    margin-top:80px;
+}
+.banner{
+    word-spacing: 0px;
+    /* font-size: ; */
+    /* margin:5px; */
+    background-color: aqua;
+}

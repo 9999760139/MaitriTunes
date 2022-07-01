@@ -1,0 +1,43 @@
+
+.main_heading{
+    margin:auto;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+}
+.paper{
+    box-shadow: none;
+    /* height: 100px; */
+    margin-bottom:20px;
+    margin:20px auto;
+}
+.card{
+    display: flex;
+    align-items: center;
+}
+.buttonbase{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.buttonbase_phone img{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    /* height:100%; */
+    width:100%;
+}
+.buttonbase img{
+    height:80%;
+    width:80%;
+}
+.grid_img{
+    display: flex;
+    align-items: center;
+}
+.line{
+    display:inline;
+    border-left:5px solid black;
+    width:15px;
+    height:1px;
+}

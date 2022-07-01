@@ -1,0 +1,27 @@
+.main{
+    margin:20px 0px;
+}
+.link_btn{
+    display:flex;
+    padding:0px auto;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+
+.email{
+    width:100%;
+}
+
+.allrights{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-bottom: 20px;
+}
+.andcopy{
+    display: flex;
+    flex-direction: row-reverse;
+    margin:20px auto;
+}
